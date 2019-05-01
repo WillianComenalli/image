@@ -2,9 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\src",
-    "\\tests\\Manipulations",
-    "\\tests\\testfiles"
+    "\\tests",
+    "\\tests\\Manipulations"
   ],
-  "SelectedNode": "\\.editorconfig",
+  "SelectedNode": "\\tests\\Manipulations\\OrientationTest.php",
   "PreviewInSolutionExplorer": false
 }
