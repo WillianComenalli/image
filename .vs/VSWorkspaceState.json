@@ -3,8 +3,8 @@
     "",
     "\\src",
     "\\tests",
-    "\\tests\\Manipulations"
+    "\\tests\\testfiles"
   ],
-  "SelectedNode": "\\tests\\Manipulations\\OrientationTest.php",
+  "SelectedNode": "\\README.md",
   "PreviewInSolutionExplorer": false
 }

@@ -1,10 +1,15 @@
 {
-  "version": "0.2.1",
-  "tasks": [
-    {
-        "appliesTo": "tests/testfiles/test.jpg",
-        "taskName": "tarefa-test",
-        "type": "launch"
-    }
-  ]
+    "tasks": [
+        {
+            "appliesTo": "tests/testfiles/test.jpg",
+            "taskName": "tarefa-test",
+            "type": "launch"
+        },
+        {
+            "appliesTo": "/",
+            "taskName": "tarefa-image",
+            "type": "launch"
+        }
+    ],
+    "version": "0.2.1"
 }
